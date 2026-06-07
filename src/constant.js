@@ -1,0 +1,1 @@
+export const API_URL = 'https://loyal-flow-production-6827.up.railway.app'
